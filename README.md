@@ -55,6 +55,6 @@ to identify the most polluted cities and yearly AQI patterns.
 2. Install required libraries
 3. Run the analysis script
 
-```bash
+```bash   
 pip install -r requirements.txt
 python analysis.py
