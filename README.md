@@ -1,4 +1,4 @@
-# Air Quality Data Analysis (India)
+# Air Quality Data Analysis (India) 
 
 This project analyzes city-wise air pollution data in India using Python.
 The goal is to clean the data, handle outliers, and visualize pollution trends
